@@ -1,9 +1,12 @@
 # facebook-phising
 Warning: Only meant for educational purpose. The author is not responsible for what a reader does with this info.
-The author doesn't promote hacking, or any illegal activity.
+The author doesn't promote unethical hacking, or any illegal activity.
 Its intended towards ethical hackers, so they can learn to protect themselves.
-Also, i believe this code won't work anymore in 2020.
-Do not break the law!
+Also, i believe this code won't work anymore in 2020 with modern browsers and websites.
+
+**Do not break the law!**
+
+------
 
 My source code was inspired by other authors.
 
